@@ -1,4 +1,4 @@
-#calcular la temperatura de brooklyn ny #
+#la temperatura de brooklyn ny #
 #codex#
 
 temp_f=56
